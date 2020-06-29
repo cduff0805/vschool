@@ -1,0 +1,75 @@
+#square {
+    background-color: white;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    height: 1000px;
+    width: 1000px;
+    text-align: center;
+
+}
+
+#hole {
+    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 900px;
+    left: 900px;
+}
+
+#black-hole {
+    position: relative;
+    bottom: 900px;
+    left: 875px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 940px;
+}
+
+#key-to-power {
+    position: relative;
+    bottom: 900px;
+    right: 100px;
+}
+
+#door {
+    background-color: brown;
+    height: 600px;
+    width: 300px;
+    position: relative;
+    bottom: 735px;
+    left: 350px;
+}
+
+#door-open {
+    position: relative;
+    bottom: 1400px;
+    left: 430px;
+}
+
+#door-knob {
+    background-color: yellow;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 700px;
+    left: 600px;
+    border: black;
+    border: 5px;
+    border: solid;
+}
+
+#play {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: chartreuse;
+    bottom: 1050px;
+}

@@ -1,0 +1,246 @@
+.franceBlueStrip {
+
+    background-color: blue;
+    position: relative;
+    height: 150px;
+    width: 60px;
+
+}
+
+.franceRedStrip {
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    bottom: 182px;
+    left: 120px;
+    height: 150px;
+    width: 60px;
+}
+
+.germanyBlackStrip {
+    background-color: black;
+    height: 50px;
+    width: 190px;
+    position: absolute;
+    top: 180px;
+}
+
+.germanyRedStrip {
+    background-color: red;
+    height: 50px;
+    width: 190px;
+    position: absolute;
+    top: 230px;
+}
+
+.germanyYellowStrip {
+    background-color:rgb(250, 217, 31);
+    height: 50px;
+    width: 190px;
+    position: absolute;
+    top: 280px;
+}
+
+.madagascarWhiteBox {
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    height: 134px;
+    width: 60px;
+    border-right: none;
+    position: relative;
+    bottom: 4px;
+}
+
+.madagascarRedBox {
+    background-color: rgb(247, 101, 44);
+    position: relative;
+    height: 70px;
+    width: 130px;
+    bottom: 160px;
+    left: 60px;
+}
+
+.madagascarGreenBox {
+    background-color: rgb(3, 104, 28);
+    position: relative;
+    height: 70px;
+    width: 130px;
+    bottom: 176px;
+    left: 60px;
+}
+
+.switzerlandRedBox {
+    background-color: red;
+    height: 150px;
+    width: 200px;
+    position: relative;
+    bottom: 150px;
+}
+
+.switzerlandWhiteBoxOne {
+    background-color: white;
+    position: relative;
+    height: 100px;
+    width: 30px;
+    bottom: 280px;
+    left: 85px;
+    
+}
+
+.switzerlandWhiteBoxTwo {
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    bottom: 360px;
+    left: 50px;
+    
+}
+
+.swedenBlue {
+    background-color: rgb(33, 104, 170);
+    height: 150px;
+    width: 200px;
+    position: relative;
+    bottom: 1025px;
+    left: 250px;
+}
+
+.swedenYellowStripOne {
+    background-color: gold;
+    height: 150px;
+    width: 25px;
+    left: 60px;
+    position: relative;
+    bottom: 1191px;
+    left: 310px;
+    
+}
+
+.swedenYellowStripTwo {
+    background-color: gold;
+    height: 25px;
+    width: 200px;
+    position: relative;
+    bottom: 1300px;
+    left: 250px;
+}
+
+.gambiaRedStrip {
+    background-color:rgb(212, 3, 3);
+    height: 50px;
+    width: 200px;
+    position: relative;
+    bottom: 1218px;
+    left: 250px;
+    
+    
+}
+
+.gambiaBlueStrip {
+    background-color: darkblue;
+    height: 40px;
+    width: 200px;
+    position: relative;
+    bottom: 1225px;
+    left: 250px;
+    
+}
+
+.gambiaGreenStrip {
+    background-color:rgb(48, 119, 1);
+    height: 50px;
+    width: 200px;
+    position: relative;
+    bottom: 1230px;
+    left: 250px;
+    
+    
+}
+
+.japanWhite {
+    background-color: white;
+    border: solid;
+    height: 130px;
+    width: 200px;
+    position: relative;
+    bottom: 1220px;
+    left: 250px;
+}
+
+.japanRedDot {
+    background-color: red;
+    height: 70px;
+    width: 70px;
+    position: relative;
+    bottom: 1336px;
+    left: 316px;
+    border-radius: 50%;  
+}
+
+.nigerOrangeStrip {
+    background-color: rgb(247, 101, 44);
+    height: 50px;
+    width: 205px;
+    position: relative;
+    bottom: 1300px;
+    left: 250px;
+}
+
+.nigerOrangeDot {
+    background-color: rgb(247, 101, 44);
+    height: 50px;
+    width: 50px;
+    position: relative;
+    bottom: 1310px;
+    left: 326px;
+    border-radius: 50%;
+
+}
+
+.nigerGreenStrip {
+    background-color: limegreen;
+    height: 50px;
+    width: 205px;
+    position: relative;
+    bottom: 1320px;
+    left: 250px;
+}
+
+.tongaRedbackground {
+    background-color: rgb(180, 2, 2);
+    position: relative;
+    bottom: 2020px;
+    left: 500px;
+    height: 150px;
+    width: 230px;
+
+}
+
+.tongaWhiteBox {
+    background-color: white;
+    position: relative;
+    bottom: 2186px;
+    left: 500px;
+    height: 60px;
+    width: 90px;
+}
+
+.tongaRedCrossOne {
+    background-color: rgb(180, 2, 2);
+    position: relative;
+    height: 30px;
+    width: 10px;
+    left: 540px;
+    bottom: 2250px;
+
+}
+.tongaRedCrossTwo {
+    background-color: rgb(180, 2, 2);
+    position: relative;
+    height: 10px;
+    width: 30px;
+    left: 530px;
+    bottom: 2286px;
+}

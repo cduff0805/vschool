@@ -1,0 +1,124 @@
+h1 {
+    font-size: 100px;
+    display: inline;
+    text-align: center;
+    color: purple;
+    font-family: cursive;
+    position: relative;
+    left: 235px;
+}
+
+body {
+    background-color: lightblue;
+    
+}
+
+p {
+    font-family: sans-serif;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: red;
+    border-style: solid;
+    border-color: silver;
+    
+}
+
+.full-time {
+    display: flex;
+    flex-direction: column;
+    border-style: ridge;
+    border-width: thick;
+    margin: 10px 000px 0px 10px;
+    position: absolute;
+    
+
+}
+
+.full-time-pic {
+    height: 200px;
+    width: 250px;
+}
+
+.part-time {
+    display: flex;
+    flex-direction: column;
+    border-style: ridge;
+    border-width: thick;
+    margin: 10px 0px 0px 0px;
+    position: absolute;
+    left: 500px;
+    
+
+}
+
+.part-time-pic {
+    height: 200px;
+    width: 250px;
+}
+
+.socialPlatforms {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: 450px;
+    justify-content: space-evenly;
+}
+
+
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    h1 {
+        font-family: monospace;
+        text-align: left;
+        display: flex;
+        position: absolute;
+        left: 10px;
+        color: slateblue;
+        font-size: 30px;
+        
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    nav {
+        position: fixed;
+        top: 60px;
+    }
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    .full-time {
+        position: relative;
+        top: 100px;
+    }
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    .part-time {
+        position: relative;
+        left: 10px;
+        top: 100px;
+    }
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    p {
+        font-family: cursive;
+        font-size: 10px;
+        position: relative;
+        top: 90px;
+    }
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    .socialPlatforms {
+        font-family: cursive;
+        font-size: 10px;
+        position: relative;
+        top: 100px;
+    }
+}

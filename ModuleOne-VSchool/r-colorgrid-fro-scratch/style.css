@@ -1,0 +1,165 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+}
+
+#boxOne {
+    background-color: #F5C6D6;
+    height: 100px;
+    width: 590px;
+    position: relative;
+}
+
+#boxTwoPink {
+    background-color: #EE2E84;
+    height: 100px;
+    width: 140px;
+    position: relative;
+    top: 120px;
+}
+
+#boxThreePink {
+    background-color: #EE2E84;
+    height: 100px;
+    width: 140px;
+    position: relative;
+    top: 20px;
+    left: 150px
+}
+
+#boxFourPink {
+    background-color: #EE2E84;
+    height: 100px;
+    width: 140px;
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+
+#boxFivePink {
+    background-color: #EE2E84;
+    height: 100px;
+    width: 140px;
+    position: relative;
+    left: 450px;
+    bottom:180px;
+}
+
+#boxSixBlue {
+    background-color: #85CFD8;
+    height: 100px;
+    width: 290px;
+    position: relative;
+    bottom:160px;
+}
+
+#boxSevenBlue {
+    background-color: #85CFD8;
+    height: 100px;
+    width: 290px;
+    position: relative;
+    bottom:260px;
+    left: 300px;
+}
+
+#boxEightGreen {
+    background-color: #8DC63F;
+    height: 100px;
+    width: 450px;
+    position: relative;
+    bottom:240px;
+}
+
+#boxNineOrange {
+    background-color: #E76E34;
+    height: 100px;
+    width: 130px;
+    position: relative;
+    bottom:340px;
+    left: 460px;
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxOne {
+        width: 100%;
+        position: absolute;
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxTwoPink {
+         width: 100%;
+         position: absolute;
+         bottom: 100px;
+
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxThreePink {
+         width: 100%;
+         position: absolute;
+         top: 240px;
+         left: 0px;
+    
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxFourPink {
+        width: 100%;
+        position: absolute;
+        top: 360px;
+        left: 0px;
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxFivePink {
+        width: 100%;
+        position: absolute;
+        top: 480px;
+        left: 0px;
+
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxSixBlue {
+        width: 100%;
+        position: absolute;
+        top: 600px;
+        left: 0px;
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxSevenBlue {
+        position: absolute;
+        width: 100%;
+        top: 720px;
+        left: 0px;
+
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxEightGreen {
+        width: 100%;
+        position: absolute;
+        top: 840px;
+        left: 0px;
+
+    } 
+}
+
+
+@media only screen and (min-width:0px) and (max-width: 768px) {
+    #boxNineOrange {
+        width: 100%;
+        position: absolute;
+        top: 960px;
+        left: 0px;
+
+    } 
+}
